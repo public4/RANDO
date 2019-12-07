@@ -1,0 +1,22 @@
+{
+  "name": "rando",
+  "version": "1.0.0",
+  "description": "rando bot for telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/public4/rando.git"
+  },
+  "keywords": [
+    "rando"
+  ],
+  "author": "public4",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/public4/rando/issues"
+  },
+  "homepage": "https://github.com/public4/rando#readme"
+}
