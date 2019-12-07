@@ -18,6 +18,8 @@
   "homepage": "https://github.com/public4/rando#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
+    "lodas": "^1.2.0",
+    "nedb": "^1.8.0",
     "telegraf": "^3.34.1"
   }
 }
