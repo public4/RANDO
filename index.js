@@ -1,6 +1,6 @@
 const Telegraf = require('telegraf')
 require('dotenv').config();
-var = _files
+var _files
 var _ = require('lodash');
 
 const bot = new Telegraf(process.env.BOT_TOKEN)
